@@ -1,0 +1,37 @@
+[
+	{
+		"_id":  "5b99ef819aa2b917aa450a51",
+		"zone_id": 1,
+		"zone_name": "North Zone"
+	},
+	{
+		"_id": "5b99ef819aa2b917aa450a52",
+		"zone_id": 9,
+		"zone_name": "South Zone"
+	},
+	{
+		"_id": "5b99ef819aa2b917aa450a53",
+		"zone_id":16,
+		"zone_name": "West Zone"
+	},
+	{
+		"_id": "5b99ef819aa2b917aa450a54",
+		"zone_id": 22,
+		"zone_name": "East Zone"
+	},
+	{
+		"_id":"5b99ef819aa2b917aa450a55",
+		"zone_id": 26,
+		"zone_name": "NorthEast Zone"
+	},
+	{
+		"_id": "5b99ef819aa2b917aa450a56",
+		"zone_id":34,
+		"zone_name": "Central India Zone"
+	},
+	{
+		"_id": "5b99ef819aa2b917aa450a57",
+		"zone_id": 2,
+		"zone_name": "NULL"
+	}
+]
